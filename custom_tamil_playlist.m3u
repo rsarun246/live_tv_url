@@ -13,6 +13,8 @@ https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="News",News J
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:newsj_,b256,b512,b1024,b1824,.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="News",Malai Murasu TV
+https://m-c06-j2apps.s.llnwi.net/hls/7074.MalaiMurasuTV.in.m3u8
 
 #EXTINF:-1 tvg-id="14020"  group-title="Entertainment",Sun TV HD
 http://139.59.55.243/sunnxt/live.php?c=14020&e=.m3u8
@@ -55,10 +57,6 @@ http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippol
 http://139.59.55.243/sunnxt/live.php?c=26569&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="Entertainment",CAPTAIN TV
 https://m-c29-j2apps.s.llnwi.net/hls/0680.CaptainTV.in_288p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="Entertainment",Colors Tamil HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40808
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="Entertainment",Colors Tamil
-https://livevoot-i.akamaihd.net/dash/live/828537/colorstamilhd/master.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="Movies",KTV
 http://139.59.55.243/sunnxt/live.php?c=26566&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="Entertainment",Kalaignar (576p)
@@ -67,6 +65,8 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="Entertainment",Puthuyugam TV
 http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="Entertainment",Polimer TV
+http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="Entertainment",Raj TV
 http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="Entertainment",VENDHAR TV
@@ -129,11 +129,3 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Discovery",D Tamil
-https://idvd.multitvsolution.com/idvo/discoverytamil_540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Discovery",D Science
-https://idvd.multitvsolution.com/idvo/discoverscienceeng_540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Discovery",D Turbo
-https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="National ",Nat Geo
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40817
