@@ -9,8 +9,6 @@ http://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="News",Polimer News
 https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="News",Polimer News_2
-http://versewsa.pc.cdn.bitgravity.com:80/versewsa/live/polimernews.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="News",Puthiya  Thalaimurai
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="News",News J
@@ -18,12 +16,10 @@ http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:newsj_,b256,b512,b1024
 
 #EXTINF:-1 tvg-id="14020"  group-title="Entertainment",Sun TV HD
 http://139.59.55.243/sunnxt/live.php?c=14020&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="Entertainment",Zee Tamil
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86079
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="Entertainment",Zee Tamil HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40835
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2786
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="Entertainment",Vijay TV HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40824
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43604
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="Devotional",Sai TV
 https://streaming37.worldbbtv.com/hls/saitv.m3u8
