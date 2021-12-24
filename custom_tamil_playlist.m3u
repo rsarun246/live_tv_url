@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="38926" tvg-name="" tvg-country="IN" tvg-language="Tamil" tvg-url="" group-title="News",Sun News
-http://139.59.55.243/sunnxt/live.php?c=38926&e=.m3u8
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86067
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="News",News18 Tamil
 https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="News",News7 Tamil
@@ -16,18 +16,30 @@ http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:newsj_,b256,b512,b1024
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="News",Malai Murasu TV
 https://m-c06-j2apps.s.llnwi.net/hls/7074.MalaiMurasuTV.in.m3u8
 
+#EXTINF:-1 tvg-id="14020"  group-title="Entertainment",Sun TV FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86065
 #EXTINF:-1 tvg-id="14020"  group-title="Entertainment",Sun TV HD
-http://139.59.55.243/sunnxt/live.php?c=14020&e=.m3u8
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86180
+#EXTINF:-1 tvg-id="14020"  group-title="Entertainment",Sun TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/40828
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="Entertainment",Zee Tamil HD
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2786
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86079
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="Entertainment",Zee Tamil
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87324
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="Entertainment",Vijay TV FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86181
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="Entertainment",Vijay TV HD
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43604
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87265
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="Entertainment",Vijay TV
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/52867
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="Devotional",Sai TV
 https://streaming37.worldbbtv.com/hls/saitv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="Music",Sun Music HD
-http://139.59.55.243/sunnxt/live.php?c=9013&e=.m3u8
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/86073
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="Music",Sun Music
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87325
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil"  tvg-url="" group-title="Music",7S Music (576p)
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil" tvg-logo="" tvg-url="" group-title="Music",ACN Music (1080p)
@@ -128,4 +140,3 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-
